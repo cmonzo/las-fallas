@@ -1,0 +1,41 @@
+section.primera{
+    background-color: rgb(40, 146, 233);
+    text-align: center;
+}
+hr.mitad{
+    width: 50%;
+}
+section.segunda{
+    text-align: center;
+    size: 125%;
+}
+img.cambio:hover{
+    opacity: 0.2;
+}
+section.tercera{
+    text-align: center;
+    
+    
+
+}
+span.palabra:hover{
+    background-color: blue;
+    font-weight: bold;
+}
+section.cuarta{
+    background-image: url(img/valencia_antigua.jpg);
+    width: 50%;
+    color: blue;
+    border: grey 1px solid;
+}
+section.quinta{
+    text-align: center;
+    background-color: rgb(40, 146, 233);
+    border: grey 0.1vw solid;
+}
+hr.azul{
+    color: blue;
+    height: 5px;
+    background-color: blue;
+    
+}
